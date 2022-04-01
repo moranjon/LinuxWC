@@ -1,4 +1,4 @@
-# LinuxWC - Recreation of 'wc' Linux command
+# LinuxWC - Recreation of 'wc' Linux Command
 
 ## Requirements
 
